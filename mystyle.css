@@ -1,0 +1,48 @@
+div {
+    background-color: lightblue;
+    padding: 30px 50px 30px 50px;
+    text-align: left;
+    font-family: "Tahoma", Geneva, sans-serif;
+    margin: top: 20px;
+    margin-left: 20px;
+    margin: right: 20px;
+    border-radius: 20px;
+}
+
+.topcontentleft {
+    width: 80%;
+}
+
+.topcontentright {
+    width: 20%;
+}
+
+h1 {
+    font-size: 40px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 24px;
+    margin-bottom: -10px;
+}
+
+h3 {
+    font-size: 19px;
+    margin-bottom: -10px;
+}
+
+h4 {
+    font-size: 15px;
+    margin-bottom: -10px;
+}
+
+p {
+    font-size: 18px;
+    align-text: left;
+}
+
+li {
+    font-size: 18px;
+    align-text: left;
+}
