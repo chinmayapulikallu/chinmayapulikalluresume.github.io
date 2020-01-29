@@ -3,10 +3,10 @@ div {
     padding: 30px 50px 30px 50px;
     text-align: left;
     font-family: "Tahoma", Geneva, sans-serif;
-    margin: top: 20px;
+    margin-top: 20px;
     margin-left: 20px;
-    margin: right: 20px;
-    border-radius: 20px;
+    margin-right: 20px;
+    border-radius: 30px;
 }
 
 .topcontentleft {
@@ -39,10 +39,8 @@ h4 {
 
 p {
     font-size: 18px;
-    align-text: left;
 }
 
 li {
     font-size: 18px;
-    align-text: left;
-}
+  }
